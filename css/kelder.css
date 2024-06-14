@@ -1,0 +1,39 @@
+body {
+    background-image: url(/img/kelder.png);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+.gamescreen {
+    position: relative;
+    width: 1440px;
+    height: 810px;
+}
+
+.painting {
+    position: absolute;
+    top: 250px;
+    left: 350px;
+}
+
+.numpad {
+    position: absolute;
+    top: 250px;
+    left: 750px;
+}
+
+.black-key{
+    width:70px;
+}
+
+.door{
+    width: 200px;
+    height: 300px;
+}
+
+#arrow {
+    position:absolute;
+    top: 175px;
+    right: 325px;
+    display: none;
+}

@@ -1,0 +1,18 @@
+body {
+    background-image: url(/img/gang1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+
+.gamescreen {
+    position: relative;
+    width: 1440px;
+    height: 810px;
+}
+
+.arrow {
+    position: absolute;
+    left: 550px;
+    top: 275px;
+}

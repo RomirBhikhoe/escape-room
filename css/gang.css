@@ -1,0 +1,39 @@
+body {
+    background-image: url(/img/gang.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+
+.gamescreen {
+    position: relative;
+    width: 1440px;
+    height: 810px;
+}
+
+#hint {
+    position: absolute;
+    left: 700px;
+    bottom: 100px;
+    z-index: 1;
+    display: none;
+}
+
+.com {
+    position: absolute;
+    top: 405px;
+    left: 29px;
+    width: 500px;
+    opacity: 0;
+}
+
+#ghost {
+    position: absolute;
+    width: 20%;
+    right: 100px;
+    top: 150px;
+    display: block;
+}
+
+
+

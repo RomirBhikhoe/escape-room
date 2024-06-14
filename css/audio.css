@@ -1,0 +1,42 @@
+.box {
+    border: 1px solid;
+    border-radius: 30%;
+    width: 150px;
+    height: 150px;
+}
+p {
+    font-weight: bold;
+    color: red;
+    border-color: rgb(0, 0, 0);
+}
+
+
+.play-button {
+    font-size: 29px;
+    color: rgb(0, 151, 0);;
+    border: 2px solid;
+    border-color: rgb(0, 151, 0);
+    border-radius: 10px;
+    border-width: 5px;
+    cursor: pointer;
+}
+
+.play-button:hover {
+    color: rgb(0, 94, 0);
+    border-color: rgb(0, 94, 0);
+}
+
+.mute-button {
+    font-size: 25px;
+    color: rgb(0, 151, 0);;
+    border: 2px solid;
+    border-color: rgb(0, 151, 0);
+    border-radius: 10px;
+    border-width: 5px;
+    cursor: pointer;
+}
+
+.mute-button:hover {
+    color: rgb(0, 94, 0);
+    border-color: rgb(0, 94, 0);
+}
