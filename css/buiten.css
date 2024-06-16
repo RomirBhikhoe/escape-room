@@ -4,3 +4,11 @@ body{
     background-size: cover;
 }
 
+.start {
+    border: 1px solid orangered;
+    background: black;
+    color: orangered;
+    font-size: 20px;
+    width: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
